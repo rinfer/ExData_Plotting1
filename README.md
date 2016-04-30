@@ -1,3 +1,12 @@
+#README for Assignement Project 1 of Exploratory Data Analysis
+
+##Note
+Due to the overall language settings of my computer the day lables in plots 2, 3 and 4 are
+* Thue > Do
+* Fri > Fr
+* Sat > Sa
+
+
 ## Introduction
 
 This assignment uses data from
